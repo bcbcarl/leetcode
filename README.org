@@ -3,3 +3,4 @@
 * LeetCode Algorithms
 ** C++
 *** [[./cpp/sqrtx/main.cc][Sqrt(x)]]
+*** [[./cpp/valid-perfect-square/main.cc][Valid Perfect Square]]
