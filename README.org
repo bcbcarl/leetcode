@@ -6,3 +6,4 @@
 *** [[./cpp/valid-perfect-square/main.cc][Valid Perfect Square]]
 *** [[./cpp/two-sum/main.cc][Two Sum]]
 *** [[./cpp/two-sum-ii-input-array-is-sorted/main.cc][Two Sum II - Input array is sorted]]
+*** [[./cpp/reverse-string/main.cc][Reverse String]]
