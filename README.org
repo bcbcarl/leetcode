@@ -8,3 +8,4 @@
 *** [[./cpp/two-sum-ii-input-array-is-sorted/main.cc][Two Sum II - Input array is sorted]]
 *** [[./cpp/reverse-string/main.cc][Reverse String]]
 *** [[./cpp/valid-anagram/main.cc][Valid Anagram]]
+*** [[./cpp/delete-node-in-a-linked-list/main.cc][Delete Node in a Linked List]]
