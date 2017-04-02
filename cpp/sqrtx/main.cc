@@ -41,8 +41,8 @@ inline double Solution::d_f(const double& x) {
 }
 
 int main() {
-  const int x = 612;
   Solution* solution = new Solution();
+  const int x = 612;
   std::cout << solution->mySqrt(x) << std::endl;
   delete solution;
   return 0;
