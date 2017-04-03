@@ -9,3 +9,4 @@
 *** [[./cpp/reverse-string/main.cc][Reverse String]]
 *** [[./cpp/valid-anagram/main.cc][Valid Anagram]]
 *** [[./cpp/delete-node-in-a-linked-list/main.cc][Delete Node in a Linked List]]
+*** [[./cpp/contains-duplicate/main.cc][Contains Duplicate]]
