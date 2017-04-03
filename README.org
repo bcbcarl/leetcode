@@ -1,12 +1,14 @@
 #+AUTHOR: Carl Su
 
 * LeetCode Algorithms
-** C++
-*** [[./cpp/sqrtx/main.cc][Sqrt(x)]]
-*** [[./cpp/valid-perfect-square/main.cc][Valid Perfect Square]]
-*** [[./cpp/two-sum/main.cc][Two Sum]]
-*** [[./cpp/two-sum-ii-input-array-is-sorted/main.cc][Two Sum II - Input array is sorted]]
-*** [[./cpp/reverse-string/main.cc][Reverse String]]
-*** [[./cpp/valid-anagram/main.cc][Valid Anagram]]
-*** [[./cpp/delete-node-in-a-linked-list/main.cc][Delete Node in a Linked List]]
-*** [[./cpp/contains-duplicate/main.cc][Contains Duplicate]]
+** Solved Problems
+| Title                              | Difficulty | C++ | JavaScript |
+|------------------------------------+------------+-----+------------|
+| [[./cpp/sqrtx/main.cc][Sqrt(x)]]                            | Easy       | v   |            |
+| [[./cpp/valid-perfect-square/main.cc][Valid Perfect Square]]               | Easy       | v   |            |
+| [[./cpp/two-sum/main.cc][Two Sum]]                            | Easy       | v   |            |
+| [[./cpp/two-sum-ii-input-array-is-sorted/main.cc][Two Sum II - Input array is sorted]] | Easy       | v   |            |
+| [[./cpp/reverse-string/main.cc][Reverse String]]                     | Easy       | v   |            |
+| [[./cpp/valid-anagram/main.cc][Valid Anagram]]                      | Easy       | v   |            |
+| [[./cpp/delete-node-in-a-linked-list/main.cc][Delete Node in a Linked List]]       | Easy       | v   |            |
+| [[./cpp/contains-duplicate/main.cc][Contains Duplicate]]                 | Easy       | v   |            |
