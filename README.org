@@ -9,6 +9,6 @@
 | [[https://leetcode.com/problems/two-sum][Two Sum]]                            | Easy       | [[./cpp/two-sum/main.cc][v]]   | [[./js/two-sum/index.js][v]]          |
 | [[https://leetcode.com/problems/two-sum-ii-input-array-is-sorted][Two Sum II - Input array is sorted]] | Easy       | [[./cpp/two-sum-ii-input-array-is-sorted/main.cc][v]]   |            |
 | [[https://leetcode.com/problems/reverse-string][Reverse String]]                     | Easy       | [[./cpp/reverse-string/main.cc][v]]   |            |
-| [[https://leetcode.com/problems/valid-anagram][Valid Anagram]]                      | Easy       | [[./cpp/valid-anagram/main.cc][v]]   |            |
+| [[https://leetcode.com/problems/valid-anagram][Valid Anagram]]                      | Easy       | [[./cpp/valid-anagram/main.cc][v]]   | [[./js/valid-anagram/index.js][v]]          |
 | [[https://leetcode.com/problems/delete-node-in-a-linked-list][Delete Node in a Linked List]]       | Easy       | [[./cpp/delete-node-in-a-linked-list/main.cc][v]]   |            |
 | [[https://leetcode.com/problems/contains-duplicate][Contains Duplicate]]                 | Easy       | [[./cpp/contains-duplicate/main.cc][v]]   |            |
