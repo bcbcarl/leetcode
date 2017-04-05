@@ -10,5 +10,13 @@
 | 217 | [[https://leetcode.com/problems/contains-duplicate][Contains Duplicate]]                 | Easy       | [[./cpp/contains-duplicate/main.cc][v]]   |            |
 | 237 | [[https://leetcode.com/problems/delete-node-in-a-linked-list][Delete Node in a Linked List]]       | Easy       | [[./cpp/delete-node-in-a-linked-list/main.cc][v]]   |            |
 | 242 | [[https://leetcode.com/problems/valid-anagram][Valid Anagram]]                      | Easy       | [[./cpp/valid-anagram/main.cc][v]]   | [[./js/valid-anagram/index.js][v]]          |
+| 338 | [[https://leetcode.com/problems/counting-bits][Counting Bits]]                      | Medium     |     | v          |
 | 344 | [[https://leetcode.com/problems/reverse-string][Reverse String]]                     | Easy       | [[./cpp/reverse-string/main.cc][v]]   | [[./js/reverse-string/index.js][v]]          |
 | 367 | [[https://leetcode.com/problems/valid-perfect-square][Valid Perfect Square]]               | Easy       | [[./cpp/valid-perfect-square/main.cc][v]]   | [[./js/valid-perfect-square/index.js][v]]          |
+| 387 | [[https://leetcode.com/problems/first-unique-character-in-a-string][First Unique Character in a String]] | Easy       |     | v          |
+| 389 | [[https://leetcode.com/problems/find-the-difference][Find the Difference]]                | Easy       |     | v          |
+| 461 | [[https://leetcode.com/problems/hamming-distance][Hamming Distance]]                   | Easy       |     | v          |
+| 476 | [[https://leetcode.com/problems/number-complement][Number Complement]]                  | Easy       |     | v          |
+| 496 | [[https://leetcode.com/problems/next-greater-element-i][Next Greater Element I]]             | Easy       |     | v          |
+| 500 | [[https://leetcode.com/problems/keyboard-row][Keyboard Row]]                       | Easy       |     | v          |
+| 541 | [[https://leetcode.com/problems/reverse-string-ii][Reverse String II]]                  | Easy       |     | v          |
