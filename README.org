@@ -4,11 +4,11 @@
 ** Solved Problems
 | Title                              | Difficulty | C++ | JavaScript |
 |------------------------------------+------------+-----+------------|
-| [[./cpp/sqrtx/main.cc][Sqrt(x)]]                            | Easy       | v   | v          |
-| [[./cpp/valid-perfect-square/main.cc][Valid Perfect Square]]               | Easy       | v   | v          |
-| [[./cpp/two-sum/main.cc][Two Sum]]                            | Easy       | v   |            |
-| [[./cpp/two-sum-ii-input-array-is-sorted/main.cc][Two Sum II - Input array is sorted]] | Easy       | v   |            |
-| [[./cpp/reverse-string/main.cc][Reverse String]]                     | Easy       | v   |            |
-| [[./cpp/valid-anagram/main.cc][Valid Anagram]]                      | Easy       | v   |            |
-| [[./cpp/delete-node-in-a-linked-list/main.cc][Delete Node in a Linked List]]       | Easy       | v   |            |
-| [[./cpp/contains-duplicate/main.cc][Contains Duplicate]]                 | Easy       | v   |            |
+| [[https://leetcode.com/problems/sqrtx][Sqrt(x)]]                            | Easy       | [[./cpp/sqrtx/main.cc][v]]   | [[./js/sqrtx/index.js][v]]          |
+| [[https://leetcode.com/problems/valid-perfect-square][Valid Perfect Square]]               | Easy       | [[./cpp/valid-perfect-square/main.cc][v]]   | [[./js/valid-perfect-square/index.js][v]]          |
+| [[https://leetcode.com/problems/two-sum][Two Sum]]                            | Easy       | [[./cpp/two-sum/main.cc][v]]   |            |
+| [[https://leetcode.com/problems/two-sum-ii-input-array-is-sorted][Two Sum II - Input array is sorted]] | Easy       | [[./cpp/two-sum-ii-input-array-is-sorted/main.cc][v]]   |            |
+| [[https://leetcode.com/problems/reverse-string][Reverse String]]                     | Easy       | [[./cpp/reverse-string/main.cc][v]]   |            |
+| [[https://leetcode.com/problems/valid-anagram][Valid Anagram]]                      | Easy       | [[./cpp/valid-anagram/main.cc][v]]   |            |
+| [[https://leetcode.com/problems/delete-node-in-a-linked-list][Delete Node in a Linked List]]       | Easy       | [[./cpp/delete-node-in-a-linked-list/main.cc][v]]   |            |
+| [[https://leetcode.com/problems/contains-duplicate][Contains Duplicate]]                 | Easy       | [[./cpp/contains-duplicate/main.cc][v]]   |            |
