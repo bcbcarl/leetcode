@@ -6,7 +6,7 @@
 |------------------------------------+------------+-----+------------|
 | [[https://leetcode.com/problems/sqrtx][Sqrt(x)]]                            | Easy       | [[./cpp/sqrtx/main.cc][v]]   | [[./js/sqrtx/index.js][v]]          |
 | [[https://leetcode.com/problems/valid-perfect-square][Valid Perfect Square]]               | Easy       | [[./cpp/valid-perfect-square/main.cc][v]]   | [[./js/valid-perfect-square/index.js][v]]          |
-| [[https://leetcode.com/problems/two-sum][Two Sum]]                            | Easy       | [[./cpp/two-sum/main.cc][v]]   |            |
+| [[https://leetcode.com/problems/two-sum][Two Sum]]                            | Easy       | [[./cpp/two-sum/main.cc][v]]   | [[./js/two-sum/index.js][v]]          |
 | [[https://leetcode.com/problems/two-sum-ii-input-array-is-sorted][Two Sum II - Input array is sorted]] | Easy       | [[./cpp/two-sum-ii-input-array-is-sorted/main.cc][v]]   |            |
 | [[https://leetcode.com/problems/reverse-string][Reverse String]]                     | Easy       | [[./cpp/reverse-string/main.cc][v]]   |            |
 | [[https://leetcode.com/problems/valid-anagram][Valid Anagram]]                      | Easy       | [[./cpp/valid-anagram/main.cc][v]]   |            |
