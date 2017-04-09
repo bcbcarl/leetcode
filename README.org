@@ -8,6 +8,7 @@
 |   2 | [[https://leetcode.com/problems/add-two-numbers][Add Two Numbers]]                    | Medium     | [[./cpp/add-two-numbers/main.cc][v]]   |            |
 |  69 | [[https://leetcode.com/problems/sqrtx][Sqrt(x)]]                            | Easy       | [[./cpp/sqrtx/main.cc][v]]   | [[./js/sqrtx/index.js][v]]          |
 | 167 | [[https://leetcode.com/problems/two-sum-ii-input-array-is-sorted][Two Sum II - Input array is sorted]] | Easy       | [[./cpp/two-sum-ii-input-array-is-sorted/main.cc][v]]   |            |
+| 206 | [[https://leetcode.com/problems/reverse-linked-list][Reverse Linked List]]                | Easy       | [[./cpp/reverse-linked-list/main.cc][v]]   |            |
 | 217 | [[https://leetcode.com/problems/contains-duplicate][Contains Duplicate]]                 | Easy       | [[./cpp/contains-duplicate/main.cc][v]]   |            |
 | 237 | [[https://leetcode.com/problems/delete-node-in-a-linked-list][Delete Node in a Linked List]]       | Easy       | [[./cpp/delete-node-in-a-linked-list/main.cc][v]]   |            |
 | 242 | [[https://leetcode.com/problems/valid-anagram][Valid Anagram]]                      | Easy       | [[./cpp/valid-anagram/main.cc][v]]   | [[./js/valid-anagram/index.js][v]]          |
