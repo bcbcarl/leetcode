@@ -7,6 +7,7 @@
 |   1 | [[https://leetcode.com/problems/two-sum][Two Sum]]                            | Easy       | [[./cpp/two-sum/main.cc][v]]   | [[./js/two-sum/index.js][v]]          |
 |   2 | [[https://leetcode.com/problems/add-two-numbers][Add Two Numbers]]                    | Medium     | [[./cpp/add-two-numbers/main.cc][v]]   |            |
 |  69 | [[https://leetcode.com/problems/sqrtx][Sqrt(x)]]                            | Easy       | [[./cpp/sqrtx/main.cc][v]]   | [[./js/sqrtx/index.js][v]]          |
+| 100 | [[https://leetcode.com/problems/same-tree][Same Tree]]                          | Easy       |     | [[./js/same-tree/index.js][v]]          |
 | 101 | [[https://leetcode.com/problems/symmetric-tree][Symmetric Tree]]                     | Easy       |     | [[./js/symmetric-tree/index.js][v]]          |
 | 167 | [[https://leetcode.com/problems/two-sum-ii-input-array-is-sorted][Two Sum II - Input array is sorted]] | Easy       | [[./cpp/two-sum-ii-input-array-is-sorted/main.cc][v]]   |            |
 | 206 | [[https://leetcode.com/problems/reverse-linked-list][Reverse Linked List]]                | Easy       | [[./cpp/reverse-linked-list/main.cc][v]]   |            |
