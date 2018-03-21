@@ -20,7 +20,7 @@
 | 387 | [[https://leetcode.com/problems/first-unique-character-in-a-string][First Unique Character in a String]] | Easy       |     | v          |
 | 389 | [[https://leetcode.com/problems/find-the-difference][Find the Difference]]                | Easy       |     | v          |
 | 461 | [[https://leetcode.com/problems/hamming-distance][Hamming Distance]]                   | Easy       |     | [[./js/hamming-distance/index.js][v]]          |
-| 476 | [[https://leetcode.com/problems/number-complement][Number Complement]]                  | Easy       |     | v          |
+| 476 | [[https://leetcode.com/problems/number-complement][Number Complement]]                  | Easy       |     | [[./js/number-complement/index.js][v]]          |
 | 496 | [[https://leetcode.com/problems/next-greater-element-i][Next Greater Element I]]             | Easy       |     | v          |
 | 500 | [[https://leetcode.com/problems/keyboard-row][Keyboard Row]]                       | Easy       |     | v          |
 | 541 | [[https://leetcode.com/problems/reverse-string-ii][Reverse String II]]                  | Easy       |     | v          |
