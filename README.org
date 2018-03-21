@@ -22,7 +22,7 @@
 | 461 | [[https://leetcode.com/problems/hamming-distance][Hamming Distance]]                   | Easy       |     | [[./js/hamming-distance/index.js][v]]          |
 | 476 | [[https://leetcode.com/problems/number-complement][Number Complement]]                  | Easy       |     | [[./js/number-complement/index.js][v]]          |
 | 496 | [[https://leetcode.com/problems/next-greater-element-i][Next Greater Element I]]             | Easy       |     | v          |
-| 500 | [[https://leetcode.com/problems/keyboard-row][Keyboard Row]]                       | Easy       |     | v          |
+| 500 | [[https://leetcode.com/problems/keyboard-row][Keyboard Row]]                       | Easy       |     | [[./js/keyboard-row/index.js][v]]          |
 | 541 | [[https://leetcode.com/problems/reverse-string-ii][Reverse String II]]                  | Easy       |     | v          |
 | 617 | [[https://leetcode.com/problems/merge-two-binary-trees][Merge Two Binary Trees]]             | Easy       |     | [[./js/merge-two-binary-trees/index.js][v]]          |
 | 771 | [[https://leetcode.com/problems/jewels-and-stones][Jewels and Stones]]                  | Easy       |     | [[./js/jewels-and-stones/index.js][v]]          |
