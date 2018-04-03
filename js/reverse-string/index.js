@@ -3,7 +3,14 @@
  * @return {string}
  */
 const reverseString = (s) => {
-  return s.split('').reverse().join('');
+  let s_arr = s.split('');
+  let result = '';
+
+  while (s_arr.length) {
+    result += s_arr.pop();
+  }
+
+  return result;
 };
 
 const main = () => {
